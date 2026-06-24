@@ -1,1 +1,0 @@
-# fateme-beauty-lab-front

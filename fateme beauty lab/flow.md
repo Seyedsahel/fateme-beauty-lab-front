@@ -402,8 +402,6 @@ User enters consultation page
 
 → Completes consultation form
 
-→ Pays consultation fee
-
 → Consultation created
 
 → Awaiting response
@@ -426,7 +424,7 @@ Examples:
 
 ## Consultation Statuses
 
-* Pending Payment
+* Pending complete form
 * Waiting For Review
 * Answered
 * Closed
@@ -591,4 +589,3 @@ Examples:
 ---
 
 # End of Document
-
